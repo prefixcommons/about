@@ -1,3 +1,5 @@
+This file superceded by a work in progress here: https://docs.google.com/spreadsheets/d/1ob7ZJzcvRiA_X3GSmI3pCgIAEvD9GZpXubyELIsXY3g/edit#gid=0
+
 Antibodies:  
 	Antibody Registry
 	AB
